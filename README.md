@@ -1,4 +1,4 @@
-# Multilevel-feedback-queue-scheduler-
+# Multilevel-feedback-queue-scheduler
 
 Process in first queue with RR having quantum time=8
 Process in the second queue with RR having quantum time=16
